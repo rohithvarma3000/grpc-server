@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	input = "Hello"
+	input = "apple"
 )
 
 func main() {
